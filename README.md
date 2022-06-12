@@ -16,6 +16,7 @@ by performing various unsupervised learning techniques and later providing recom
 - Feature Selection: Feature selection through the use of the unsupervised learning methods. 
 - Associate Analysis: Comprises groups of items that will be associated with others. 
 - Anomally detection: The objective of this is fraud detection.
-Insight is provided at the end of each section after thorough analysis.
+
+ Insight is provided at the end of each section after thorough analysis.
 ## Set-Up
 Programs used; -R, RStudio.
