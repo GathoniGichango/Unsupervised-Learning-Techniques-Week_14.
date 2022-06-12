@@ -17,5 +17,5 @@ by performing various unsupervised learning techniques and later providing recom
 - Associate Analysis: Comprises groups of items that will be associated with others. 
 - Anomally detection: The objective of this is fraud detection.
 Insight is provided at the end of each section after thorough analysis.
-##Set-Up
+## Set-Up
 Programs used; -R, RStudio.
